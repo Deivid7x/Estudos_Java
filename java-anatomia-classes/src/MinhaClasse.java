@@ -13,6 +13,17 @@ public class MinhaClasse {
         String nomeCompleto = nomeCompleto(primeiroNome, restoDoNome);
 
         System.out.print(nomeCompleto);
+
+        // Alguns tipos usados no JAVA são: bit, short, int, long (o mais utilizado é o int)
+        // para valores decimais temos: float, double (o mais utilizado é o double)
+        // Além dos tipos acima temos o tipo String que serve para armazenamento de texto
+
+        // Por fim, se queremos criar uma variavel que não mudará seu valor durante o código (ou seja, uma constante) devemos usar a palavra final antes de declarar o tipo da variavel, e devemos deixar o nome da variavel em caixa alta,ex: 
+
+        final String MEU_NOME = "\nDeivid"; // Esse "\n" serve para quebra de linha na string
+
+        System.out.print(MEU_NOME);
+
     }
 
     
