@@ -18,6 +18,8 @@ public class MinhaClasse {
         // para valores decimais temos: float, double (o mais utilizado é o double)
         // Além dos tipos acima temos o tipo String que serve para armazenamento de texto
 
+        // Temos o tipo Boolean, para valores boleanos (true ou false)
+
         // Por fim, se queremos criar uma variavel que não mudará seu valor durante o código (ou seja, uma constante) devemos usar a palavra final antes de declarar o tipo da variavel, e devemos deixar o nome da variavel em caixa alta,ex: 
 
         final String MEU_NOME = "\nDeivid"; // Esse "\n" serve para quebra de linha na string
