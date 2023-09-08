@@ -4,7 +4,7 @@ public class Usuário {
     public static void main(String[] args) {
         // Instanciando uma classe:
 
-        // "tipo"(que no caso é o nome da classe) + nome para o objeto = new + nome da classe
+        // "tipo"(que no caso é o nome da classe) + nome para o objeto = new + a classe
         SmartTv minhSmartTv = new SmartTv();
 
         System.out.println("Minha TV está ligada? " + minhSmartTv.ligada);
