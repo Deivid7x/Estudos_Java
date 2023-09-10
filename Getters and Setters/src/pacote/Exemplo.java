@@ -10,8 +10,8 @@ public class Exemplo {
     }
 
     // Setter - de forma semelhante ao get, depois de criar o atributo e digitar set, a IDE já vai sugerir a criação do método set
-    public void setNumero(int numero) {
-        this.numero = numero;
+    public void setNumero(int novoNumero) {
+        this.numero = novoNumero;
     }
 
     
